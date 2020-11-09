@@ -261,18 +261,19 @@ figure {
 }
 /*--two colums---*/
 .new {
-background: url('img/bagbg1') no-repeat center fixed;
+background: url('img/bagbg.png') no-repeat center fixed;
  background-size: cover;
   width: 100%;
   height: auto;
-  
+  margin-top: 50px;
+  padding: 30px;
 }
 .paragraph1{
     margin: 5px;
     padding: 0px;
     border: 50px;
     word-wrap:break-word;
-    color: aliceblue;
+    color:currentColor;
 }
 .haeding{
 font-family: gotham;
