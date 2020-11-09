@@ -264,7 +264,7 @@ background: url('img/bagbg1') no-repeat center fixed;
  background-size: cover;
   width: 100%;
   height: auto;
-  padding-top: 70px;
+  padding-top: 40px;
   padding-left: 30px;
   padding-right: 30px;
 }
@@ -274,9 +274,6 @@ background: url('img/bagbg1') no-repeat center fixed;
     border: 50px;
     word-wrap:break-word;
     color: aliceblue;
-   text-align: justify-all;
-    background-color:darkslateblue;
-    border-radius: 5%;
 }
 .haeding{
 font-family: gotham;
