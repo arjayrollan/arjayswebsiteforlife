@@ -1,0 +1,84 @@
+F:\hadari mob\jannat Mobile source Code\shop\shop\bin\Release\M.N Shop.exe.config
+F:\hadari mob\jannat Mobile source Code\shop\shop\bin\Release\M.N Shop.exe.manifest
+F:\hadari mob\jannat Mobile source Code\shop\shop\bin\Release\M.N Shop.application
+F:\hadari mob\jannat Mobile source Code\shop\shop\bin\Release\M.N Shop.exe
+F:\hadari mob\jannat Mobile source Code\shop\shop\bin\Release\M.N Shop.pdb
+F:\hadari mob\jannat Mobile source Code\shop\shop\bin\Release\EntityFramework.dll
+F:\hadari mob\jannat Mobile source Code\shop\shop\bin\Release\EntityFramework.xml
+F:\hadari mob\jannat Mobile source Code\shop\shop\obj\Release\shop.About.resources
+F:\hadari mob\jannat Mobile source Code\shop\shop\obj\Release\shop.Add_Catagories.resources
+F:\hadari mob\jannat Mobile source Code\shop\shop\obj\Release\shop.add_Item_Record.resources
+F:\hadari mob\jannat Mobile source Code\shop\shop\obj\Release\shop.add_phone.resources
+F:\hadari mob\jannat Mobile source Code\shop\shop\obj\Release\shop.Add_supplier.resources
+F:\hadari mob\jannat Mobile source Code\shop\shop\obj\Release\shop.Additems.resources
+F:\hadari mob\jannat Mobile source Code\shop\shop\obj\Release\shop.Bank_S_N.resources
+F:\hadari mob\jannat Mobile source Code\shop\shop\obj\Release\shop.Banking.resources
+F:\hadari mob\jannat Mobile source Code\shop\shop\obj\Release\shop.Bill_Record.resources
+F:\hadari mob\jannat Mobile source Code\shop\shop\obj\Release\shop.Expenses.resources
+F:\hadari mob\jannat Mobile source Code\shop\shop\obj\Release\shop.FInd_Record.resources
+F:\hadari mob\jannat Mobile source Code\shop\shop\obj\Release\shop.Form1.resources
+F:\hadari mob\jannat Mobile source Code\shop\shop\obj\Release\shop.Form2.resources
+F:\hadari mob\jannat Mobile source Code\shop\shop\obj\Release\shop.invoice.resources
+F:\hadari mob\jannat Mobile source Code\shop\shop\obj\Release\shop.Item.resources
+F:\hadari mob\jannat Mobile source Code\shop\shop\obj\Release\shop.Leger.resources
+F:\hadari mob\jannat Mobile source Code\shop\shop\obj\Release\shop.Main.resources
+F:\hadari mob\jannat Mobile source Code\shop\shop\obj\Release\shop.owner_pannal.resources
+F:\hadari mob\jannat Mobile source Code\shop\shop\obj\Release\shop.owner_login.resources
+F:\hadari mob\jannat Mobile source Code\shop\shop\obj\Release\shop.Payment_Record.resources
+F:\hadari mob\jannat Mobile source Code\shop\shop\obj\Release\shop.Properties.Resources.resources
+F:\hadari mob\jannat Mobile source Code\shop\shop\obj\Release\shop.Purchase.resources
+F:\hadari mob\jannat Mobile source Code\shop\shop\obj\Release\shop.shop_Detail.resources
+F:\hadari mob\jannat Mobile source Code\shop\shop\obj\Release\shop.show_ph_record.resources
+F:\hadari mob\jannat Mobile source Code\shop\shop\obj\Release\shop.update_owner_password.resources
+F:\hadari mob\jannat Mobile source Code\shop\shop\obj\Release\shop.Update_Password.resources
+F:\hadari mob\jannat Mobile source Code\shop\shop\obj\Release\shop.update_Purchase.resources
+F:\hadari mob\jannat Mobile source Code\shop\shop\obj\Release\shop.use_wtch_record.resources
+F:\hadari mob\jannat Mobile source Code\shop\shop\obj\Release\shop.User_Account.resources
+F:\hadari mob\jannat Mobile source Code\shop\shop\obj\Release\shop.csproj.GenerateResource.Cache
+F:\hadari mob\jannat Mobile source Code\shop\shop\obj\Release\M.N Shop.exe.manifest
+F:\hadari mob\jannat Mobile source Code\shop\shop\obj\Release\M.N Shop.application
+F:\hadari mob\jannat Mobile source Code\shop\shop\obj\Release\M.N Shop.exe
+F:\hadari mob\jannat Mobile source Code\shop\shop\obj\Release\M.N Shop.pdb
+F:\hadari mob\jannat Mobile source Code\shop\shop\obj\Release\shop.csprojResolveAssemblyReference.cache
+D:\projects\hadari mob\jannat Mobile source Code\shop\shop\bin\Release\M.N Shop.exe.config
+D:\projects\hadari mob\jannat Mobile source Code\shop\shop\obj\Release\M.N Shop.exe
+D:\projects\hadari mob\jannat Mobile source Code\shop\shop\obj\Release\M.N Shop.pdb
+D:\projects\hadari mob\jannat Mobile source Code\shop\shop\bin\Release\M.N Shop.exe.manifest
+D:\projects\hadari mob\jannat Mobile source Code\shop\shop\bin\Release\M.N Shop.application
+D:\projects\hadari mob\jannat Mobile source Code\shop\shop\bin\Release\M.N Shop.exe
+D:\projects\hadari mob\jannat Mobile source Code\shop\shop\bin\Release\M.N Shop.pdb
+D:\projects\hadari mob\jannat Mobile source Code\shop\shop\bin\Release\EntityFramework.dll
+D:\projects\hadari mob\jannat Mobile source Code\shop\shop\bin\Release\EntityFramework.xml
+D:\projects\hadari mob\jannat Mobile source Code\shop\shop\obj\Release\shop.About.resources
+D:\projects\hadari mob\jannat Mobile source Code\shop\shop\obj\Release\shop.Add_Catagories.resources
+D:\projects\hadari mob\jannat Mobile source Code\shop\shop\obj\Release\shop.add_Item_Record.resources
+D:\projects\hadari mob\jannat Mobile source Code\shop\shop\obj\Release\shop.add_phone.resources
+D:\projects\hadari mob\jannat Mobile source Code\shop\shop\obj\Release\shop.Add_supplier.resources
+D:\projects\hadari mob\jannat Mobile source Code\shop\shop\obj\Release\shop.Additems.resources
+D:\projects\hadari mob\jannat Mobile source Code\shop\shop\obj\Release\shop.Bank_S_N.resources
+D:\projects\hadari mob\jannat Mobile source Code\shop\shop\obj\Release\shop.Banking.resources
+D:\projects\hadari mob\jannat Mobile source Code\shop\shop\obj\Release\shop.Bill_Record.resources
+D:\projects\hadari mob\jannat Mobile source Code\shop\shop\obj\Release\shop.Expenses.resources
+D:\projects\hadari mob\jannat Mobile source Code\shop\shop\obj\Release\shop.FInd_Record.resources
+D:\projects\hadari mob\jannat Mobile source Code\shop\shop\obj\Release\shop.Form1.resources
+D:\projects\hadari mob\jannat Mobile source Code\shop\shop\obj\Release\shop.Form2.resources
+D:\projects\hadari mob\jannat Mobile source Code\shop\shop\obj\Release\shop.invoice.resources
+D:\projects\hadari mob\jannat Mobile source Code\shop\shop\obj\Release\shop.Item.resources
+D:\projects\hadari mob\jannat Mobile source Code\shop\shop\obj\Release\shop.Leger.resources
+D:\projects\hadari mob\jannat Mobile source Code\shop\shop\obj\Release\shop.Main.resources
+D:\projects\hadari mob\jannat Mobile source Code\shop\shop\obj\Release\shop.owner_pannal.resources
+D:\projects\hadari mob\jannat Mobile source Code\shop\shop\obj\Release\shop.owner_login.resources
+D:\projects\hadari mob\jannat Mobile source Code\shop\shop\obj\Release\shop.Payment_Record.resources
+D:\projects\hadari mob\jannat Mobile source Code\shop\shop\obj\Release\shop.Properties.Resources.resources
+D:\projects\hadari mob\jannat Mobile source Code\shop\shop\obj\Release\shop.Purchase.resources
+D:\projects\hadari mob\jannat Mobile source Code\shop\shop\obj\Release\shop.shop_Detail.resources
+D:\projects\hadari mob\jannat Mobile source Code\shop\shop\obj\Release\shop.show_ph_record.resources
+D:\projects\hadari mob\jannat Mobile source Code\shop\shop\obj\Release\shop.update_owner_password.resources
+D:\projects\hadari mob\jannat Mobile source Code\shop\shop\obj\Release\shop.Update_Password.resources
+D:\projects\hadari mob\jannat Mobile source Code\shop\shop\obj\Release\shop.update_Purchase.resources
+D:\projects\hadari mob\jannat Mobile source Code\shop\shop\obj\Release\shop.use_wtch_record.resources
+D:\projects\hadari mob\jannat Mobile source Code\shop\shop\obj\Release\shop.User_Account.resources
+D:\projects\hadari mob\jannat Mobile source Code\shop\shop\obj\Release\shop.csproj.GenerateResource.Cache
+D:\projects\hadari mob\jannat Mobile source Code\shop\shop\obj\Release\M.N Shop.exe.manifest
+D:\projects\hadari mob\jannat Mobile source Code\shop\shop\obj\Release\M.N Shop.application
+D:\projects\hadari mob\jannat Mobile source Code\shop\shop\obj\Release\shop.csprojResolveAssemblyReference.cache
