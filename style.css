@@ -269,11 +269,14 @@ background: url('img/bagbg1') no-repeat center fixed;
   padding-right: 30px;
 }
 .paragraph1{
-    margin: 10px;
+    margin: 5px;
     padding: 0px;
     border: 50px;
     word-wrap:break-word;
     color: aliceblue;
+   text-align: justify-all;
+    background-color:darkslateblue;
+    border-radius: 5%;
 }
 .haeding{
 font-family: gotham;
