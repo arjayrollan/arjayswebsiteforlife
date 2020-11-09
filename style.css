@@ -264,9 +264,7 @@ background: url('img/bagbg1') no-repeat center fixed;
  background-size: cover;
   width: 100%;
   height: auto;
-  padding-top: 40px;
-  padding-left: 30px;
-  padding-right: 30px;
+  
 }
 .paragraph1{
     margin: 5px;
