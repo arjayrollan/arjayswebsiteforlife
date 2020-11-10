@@ -75,7 +75,73 @@ Phone # : 09614348390 </p>
     </div>
     </div> 
     </div>
-    
+ <!--skills indicator-->
+    <div class="skills-body">
+     <h1 class="skills1">SKILLS</h1>
+        
+<div class="skillbar clearfix " data-percent="98%">
+	<div class="skillbar-title" style="background: #d35400;"><span>HTML5</span></div>
+	<div class="skillbar-bar" style="background: #e67e22;"></div>
+	<div class="skill-bar-percent">95%</div>
+</div> <!-- End Skill Bar -->
+
+<div class="skillbar clearfix " data-percent="95%">
+	<div class="skillbar-title" style="background: #2980b9;"><span>CSS3</span></div>
+	<div class="skillbar-bar" style="background: #3498db;"></div>
+	<div class="skill-bar-percent">95%</div>
+</div> <!-- End Skill Bar -->
+
+<div class="skillbar clearfix " data-percent="90%">
+	<div class="skillbar-title" style="background: #46465e;"><span>BOOTSRAP4</span></div>
+	<div class="skillbar-bar" style="background: #5a68a5;"></div>
+	<div class="skill-bar-percent">90%</div>
+</div> <!-- End Skill Bar -->
+<div class="skillbar clearfix " data-percent="90%">
+	<div class="skillbar-title" style="background: #d35400;"><span>Graphic Design</span></div>
+	<div class="skillbar-bar" style="background: #e67e22;"></div>
+	<div class="skill-bar-percent">90%</div>
+</div> <!-- End Skill Bar -->
+        
+        
+
+<div class="skillbar clearfix " data-percent="95%">
+	<div class="skillbar-title" style="background: #2980b9;"><span>wordpress</span></div>
+	<div class="skillbar-bar" style="background: #3498db;"></div>
+	<div class="skill-bar-percent">95%</div>
+</div> <!-- End Skill Bar -->
+
+<div class="skillbar clearfix " data-percent="85%">
+	<div class="skillbar-title" style="background: #2c3e50;"><span>Affiliate Marketing</span></div>
+	<div class="skillbar-bar" style="background: #2c3e50;"></div>
+	<div class="skill-bar-percent">85%</div>
+</div> <!-- End Skill Bar -->
+
+<div class="skillbar clearfix " data-percent="40%">
+	<div class="skillbar-title" style="background: #46465e;"><span>PHP</span></div>
+	<div class="skillbar-bar" style="background: #5a68a5;"></div>
+	<div class="skill-bar-percent">40%</div>
+</div> <!-- End Skill Bar -->
+
+<div class="skillbar clearfix " data-percent="75%">
+	<div class="skillbar-title" style="background: #333333;"><span>Wordpress</span></div>
+	<div class="skillbar-bar" style="background: #525252;"></div>
+	<div class="skill-bar-percent">75%</div>
+</div> <!-- End Skill Bar -->
+
+<div class="skillbar clearfix " data-percent="50%">
+	<div class="skillbar-title" style="background: #27ae60;"><span>csharp</span></div>
+	<div class="skillbar-bar" style="background: #2ecc71;"></div>
+	<div class="skill-bar-percent">50%</div>
+</div> <!-- End Skill Bar -->
+
+<div class="skillbar clearfix " data-percent="90%">
+	<div class="skillbar-title" style="background: #124e8c;"><span>Photoshop</span></div>
+	<div class="skillbar-bar" style="background: #4288d0;"></div>
+	<div class="skill-bar-percent">90%</div>
+</div></div>
+<!-- End Skill Bar -->       
+        
+
     <!--connect-->
     <div class="container-fluid padding">
     <div class="row text-center padding">
@@ -93,6 +159,8 @@ Phone # : 09614348390 </p>
         </div>
         
     </div>
+ 
+   
 <!--footer-->
      <footer>
       <section id="contact">
@@ -100,7 +168,7 @@ Phone # : 09614348390 </p>
     <div class="container-fluid padding">
     <div class="row text-center">
         <div class="col-md-4">
-            <img src="img/logo.png">
+            <h5>Contact</h5>
             <hr class="light">
             <p>09-555-555</p>
             <p>arjayrollan24@gamil.com</p>
@@ -135,22 +203,6 @@ Phone # : 09614348390 </p>
   AOS.init();
 </script>
     
-    <script>
-      $('.skill-per').each(function(){
-        var $this = $(this);
-        var per = $this.attr('per');
-        $this.css("width",per+'%');
-        $({animatedValue: 0}).animate({animatedValue: per},{
-          duration: 1000,
-          step: function(){
-            $this.attr('per', Math.floor(this.animatedValue) + '%');
-          },
-          complete: function(){
-            $this.attr('per', Math.floor(this.animatedValue) + '%');
-          }
-        });
-      });
-    </script>
     <!--Scroll to about me-->
     <script>
     $(function() {
@@ -158,7 +210,20 @@ Phone # : 09614348390 </p>
     e.preventDefault();
     $('html, body').animate({ scrollTop: $($(this).attr('href')).offset().top}, 500, 'linear');
   });
-    });</script>
+    });
+    </script>
+    
+    <!--skills--->
+    
+    <script>
+        jQuery(document).ready(function(){
+	jQuery('.skillbar').each(function(){
+		jQuery(this).find('.skillbar-bar').animate({
+			width:jQuery(this).attr('data-percent')
+		},6000);
+	});
+});
+    </script>
     </body>
 </html>
 
