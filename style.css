@@ -274,12 +274,16 @@ background: url('img/bagbg.png') no-repeat center fixed;
     word-wrap:break-word;
     color:currentColor;
 }
+.img-meme{
+   margin-left: 60px;
+    margin-right: 60px;
+}
 .haeding{
 font-family: gotham;
    margin: 10px;
     padding: 0px;
     border: 50px;
-   text-align: center;
+    text-align: center;
 }
 #button{
     margin: 10px;
@@ -325,7 +329,7 @@ padding: 30px;
     text-align: center;
     font-family:  typeface;
     margin: 0px;
-    padding: 20px;
+    padding-top: 20px;
     color: aliceblue;
     
 }
