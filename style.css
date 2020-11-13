@@ -268,10 +268,15 @@ figure {
 }
 .new {
 background: url('img/bagbg.png') no-repeat center fixed;
- background-size: cover;
-  width: 100%;
-  height: auto;
-  padding-top: 50px;
+ height: 100%; 
+    width: 100%;
+    background-attachment: fixed;
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
 }
 .paragraph1{
     margin: 5px;
@@ -432,11 +437,11 @@ width:110px;
 
 
 .four {
-    background: url('img/background7.png') no-repeat center fixed;
+  background: url('img/background7.png') no-repeat center fixed;
   background-size: cover;
   width: 100%;
   height: auto;
-padding: 30px;
+  padding: 30px;
     
 }
 
