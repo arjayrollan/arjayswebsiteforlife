@@ -266,17 +266,13 @@ figure {
 .text-color{
     color:aliceblue
 }
-.new {
+.new{
 background: url('img/bagbg.png') no-repeat center fixed;
- height: 100%; 
-    width: 100%;
-    background-attachment: fixed;
-    background-position: center center;
-    background-repeat: no-repeat;
-    background-size: cover;
-    -webkit-background-size: cover;
-    -moz-background-size: cover;
-    -o-background-size: cover;
+ background-size: cover;
+  width: 100%;
+  height: auto;
+  padding-top: 50px;
+  scroll-behavior: smooth;
 }
 .paragraph1{
     margin: 5px;
