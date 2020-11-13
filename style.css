@@ -264,12 +264,12 @@ figure {
 }
 /*--two colums---*/
 .text-color{
-    color:aliceblue;
+    color:aliceblue
 }
 .new {
 background: url('img/bagbg.png') no-repeat center fixed;
  background-size: cover;
-  width: 100nh;
+  width: 100%;
   height: auto;
   padding-top: 50px;
 }
