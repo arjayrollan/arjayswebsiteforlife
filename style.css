@@ -144,7 +144,9 @@ html,body {
 .fa-youtube:hover {
    color: #d5d5d5;
 }
-
+.connect{
+    color: aliceblue;
+}
 /*--footer--*/
 footer {
     background-color:#0c121c;
@@ -254,6 +256,7 @@ figure {
     width: 100%;
     height: 100%;
     
+
 }
 /*--- bootstrap padding fix --*/
 [class*="col-"] {
@@ -261,21 +264,22 @@ figure {
 }
 /*--two colums---*/
 .text-color{
-    color: #adb5bd;
+    color:aliceblue;
 }
 .new {
 background: url('img/bagbg.png') no-repeat center fixed;
  background-size: cover;
-  width: 100%;
+  width: 100nh;
   height: auto;
-  padding-top: 70px;
+  padding-top: 50px;
 }
 .paragraph1{
     margin: 5px;
     padding: 0px;
     border: 50px;
     word-wrap:break-word;
-    color:currentColor;
+    color:aliceblue;
+    
 }
 .img-meme{
    margin-left: 60px;
@@ -286,9 +290,10 @@ background: url('img/bagbg.png') no-repeat center fixed;
     padding: 0px;
     width: 250px;
     height: 50px;
-    border: 3px  solid black;
+    border: 3px  solid white;
     text-align: center;
     font-size: 50;
+    color: aliceblue;
 }
 #button{
     margin: 10px;
@@ -315,6 +320,7 @@ border: 5px solid #555
 }
 .skills1{
     text-align: center;
+    color: aliceblue;
   
 }
 
