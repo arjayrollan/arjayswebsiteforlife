@@ -273,6 +273,7 @@ background: url('img/bagbg.png') no-repeat center fixed;
   height: auto;
   padding-top: 50px;
   scroll-behavior: smooth;
+    margin: auto;
 }
 .paragraph1{
     margin: 5px;
