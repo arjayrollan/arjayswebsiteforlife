@@ -271,15 +271,28 @@ background: url('img/bagbg.png') no-repeat center fixed;
  background-size:cover;
   width: 100%;
   height: 100%;
-  padding: 20px;
+  padding-top: 50px;
+  scroll-behavior: smooth;
+    margin: auto;
+    
+    -webkit-transform: translate3d(0, 0, 0);
+	transform: translate3d(0, 0, 0);
+	-webkit-transform-style: preserve-3d;
+	transform-style: preserve-3d;
 }
 .paragraph1{
     margin: 5px;
-    padding: 0px;
+    padding: 0;
     border: 50px;
     word-wrap:break-word;
     color:aliceblue;
     
+}
+.shadow{
+  
+   background-color:rgba(0,0,0,0.8);
+   border: 10px solid rgba(0, 0, 0, 0.3);
+   border-radius: 20px;
 }
 .img-meme{
    margin-left: 60px;
@@ -317,7 +330,7 @@ border: 5px solid #555;
 
 /*--SKILL LEVEL INDICATORS--*/
 .skills-body{
-    margin: 20px;
+    margin:50px ;
 }
 .skills1{
     text-align: center;
@@ -457,10 +470,16 @@ width:110px;
     text-align: center;
     font-family: arial;
     padding: 0;
-    margin: 30px; 
+    margin-left: 50px;
+    margin-right: 50px;
+    color:aliceblue;
 }
+.car-ph1{
+    color: aliceblue;
+}
+
 .whatsnew{
-    margin: 50px;
+    margin: 40px;
     padding: 0;
     text-align: center;
 }
